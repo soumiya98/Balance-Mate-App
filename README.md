@@ -5,3 +5,6 @@ It is an ankle wearable medical device which helps person correct his standing p
 
 The app communicates with bluetooth and receives real time values from the app which will be used in further calculation to track user performance.
 And the data are stored in cloud using firebase database.
+
+
+My LinkedIn profile: linkedin.com/in/soumiya-rao-396857184
