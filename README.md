@@ -1,4 +1,4 @@
-# Balance-Mate-App
+# Medical-device-app
 Android app for a medical device
 
 It is an ankle wearable medical device which helps person correct his standing posture and also warns the person of prolonged sitting. These habits  leads to musculoskeletal disorders and our device helps preventing these in the initial stages. And also this device has an App to track user performance.
